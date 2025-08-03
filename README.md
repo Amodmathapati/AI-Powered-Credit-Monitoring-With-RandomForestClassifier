@@ -65,7 +65,7 @@ project/
 ## ⚙️ Setup Instructions
 
 ### **1. Clone the repository**
-git clone https://github.com/amodmathapati/ai-credit-monitoring.git
+git clone https://github.com/Amodmathapati/ai-credit-monitoring.git
 cd ai-credit-monitoring
 
 ### **2. Create a virtual environment (optional but recommended)**
@@ -85,3 +85,4 @@ This will generate a risk_model.pkl file.
 streamlit run app.py
 The app will open at:
 http://localhost:8501
+
